@@ -1,1 +1,7 @@
-
+theme: jekyll-theme-slate
+title: The homepage of Pier Francesco Sgargi, artist
+description: What you will find here are projects, designs, thoughts.
+plugins:
+  - jemoji
+url: "https://github.com/pier9670/GitHub.io"
+markdown: kramdown
